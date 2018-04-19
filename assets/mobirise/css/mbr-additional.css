@@ -1612,7 +1612,7 @@ body {
 .cid-qPDed0pr7H {
   padding-top: 30px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
+  background: linear-gradient(45deg, #000000, #000000);
 }
 @media (min-width: 992px) {
   .cid-qPDed0pr7H .mbr-figure {
