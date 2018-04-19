@@ -388,7 +388,7 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#efefef",
-              "text-align": "left"
+              "text-align": "right"
             },
             ".mbr-text, .mbr-section-btn B": {
               "color": "#ffffff"
